@@ -1,0 +1,15 @@
+{
+    "name": "nemutaisama/config",
+    "description": "Config loader",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Ageev",
+            "email": "nemutaisama@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Nemutaisama\\Config\\": "src/Config" }
+    }
+}
